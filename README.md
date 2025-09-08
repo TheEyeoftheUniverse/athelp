@@ -1,8 +1,4 @@
-# helloworld
-
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
+监听llm返回的@，将其转换为真正的艾特的插件。
 
 # 支持
 
